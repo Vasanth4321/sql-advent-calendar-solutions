@@ -52,13 +52,9 @@ Through this challenge, I've strengthened my understanding of:
 - Real-world data scenarios
 - Best practices for SQL code organization
 
-## About Me
-
-I'm a Data Science enthusiast and aspiring Data Analyst with a strong foundation in SQL, Python, and data analysis. Currently learning at [Innomatics Research Lab](https://innomatics.in/) with a focus on database management and data-driven insights.
-
 ## Contact
 
-- **LinkedIn**: [linkedin.com/in/vasanth4321](https://www.linkedin.com/in/vasanth4321)
+- **LinkedIn**: [linkedin.com/in/vasanth-neeli](https://www.linkedin.com/in/vasanth-neeli/)
 - **GitHub**: [@Vasanth4321](https://github.com/Vasanth4321)
 
 ---
